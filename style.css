@@ -1,0 +1,29 @@
+p,h5{
+font-style: italic;
+color: coral;
+
+}
+#inp{
+    
+    position: absolute;
+     /* top: 250px;  */
+    left:150px
+   
+   
+}
+#search{
+    position: absolute;
+    left:150px;
+    border-radius: 100px;
+    height: 50px;
+    
+}
+#content{
+    text-align: center;
+    position: absolute;
+    top:150px;
+    margin: 200px;
+} 
+#icon{
+    color:rgb(86, 86, 190)
+}
